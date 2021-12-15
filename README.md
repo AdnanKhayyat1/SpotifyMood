@@ -1,6 +1,7 @@
 # Spotify Mood Predictor
 _A Chrome extension that predicts the vibe of your playlists!_
 
+![Screenshot](demo.png)
 SMP is a Google Chrome extension that has an integrated MLP model in the backend to fit your Spotify playlist songs and predict their overall mood. Current classes predicted are 'Happy, Sad, Chill, Energetic'.
 
 - Communicates with a Python HTTP Server that activates a predict function locally.
